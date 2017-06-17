@@ -12,14 +12,14 @@ body {
     background:url('../images/abstract-mosaic-background.png')
     no-repeat center center fixed;
 }
-
+ 
 .wrapper {
     width: 960px;
     margin: 0 auto
 }
 
 header, footer {
-    background-color: #595959;
+    background-color: #595859;
     text-align: center;
     padding: 15px 30px 15px 30px;
 }
