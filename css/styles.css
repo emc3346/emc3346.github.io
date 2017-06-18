@@ -9,8 +9,12 @@ p, li {
     color: #3C250A;
 }
 body {
-    background:url('https://images.template.net/wp-content/uploads/2016/03/28091004/Abstract-Dark-Geometric-Background-Download.jpg')
+    background: url('https://images.template.net/wp-content/uploads/2016/03/28091004/Abstract-Dark-Geometric-Background-Download.jpg')
     no-repeat center center fixed;
+    -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
 }
  
 .wrapper {
